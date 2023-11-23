@@ -1,5 +1,14 @@
 # @chakra-ui/next-js
 
+## 2.2.1
+
+### Patch Changes
+
+- [#8132](https://github.com/chakra-ui/chakra-ui/pull/8132)
+  [`96fac317b`](https://github.com/chakra-ui/chakra-ui/commit/96fac317bbd4df316e96527ef8a0fef3c4550a71)
+  Thanks [@ernieMrtnz](https://github.com/ernieMrtnz)! - adds nonce to added
+  style from emotion cache
+
 ## 2.2.0
 
 ### Minor Changes
